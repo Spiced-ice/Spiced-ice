@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spiced-ice
-- 👀 I’m interested in gane design!
-- 🌱 I’m currently learning LUA
+- 👀 I’m interested in game design!
+- 🌱 I’m currently learning Godot
 - 📫 How to reach me pikaglow1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love plants!
